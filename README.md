@@ -15,11 +15,11 @@ Projeto desenvolvido durante o curso de Responsividade com Mobile First pela Alu
 
 ## Projeto Tablet
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/CamilaMoser/AluraBooks/main/Tablet.png#vitrinedev)
+![](https://github.com/CamilaMoser/AluraBooks/blob/main/Tablet.png#vitrinedev)
 
 ## Projeto Desktop
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/CamilaMoser/AluraBooks/main/Desktop.png#vitrinedev)
+![](https://github.com/CamilaMoser/AluraBooks/blob/main/Desktop.png#vitrinedev)
 
 ## Detalhes do projeto
 
