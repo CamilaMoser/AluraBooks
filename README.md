@@ -9,8 +9,17 @@ Projeto desenvolvido durante o curso de Responsividade com Mobile First pela Alu
 | :rocket: URL         | https://camilamoser.github.io/AluraBooks/
 | :fire: Desafio     | https://cursos.alura.com.br/course/html-css-responsividade-mobile-first
 
+## Projeto Mobile
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://raw.githubusercontent.com/CamilaMoser/AluraBooks/main/Mobile.png#vitrinedev)
+
+## Projeto Tablet
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://raw.githubusercontent.com/CamilaMoser/AluraBooks/main/Tablet.png#vitrinedev)
+
+## Projeto Desktop
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://raw.githubusercontent.com/CamilaMoser/AluraBooks/main/Desktop.png#vitrinedev)
 
 ## Detalhes do projeto
 
